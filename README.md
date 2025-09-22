@@ -4,3 +4,6 @@ part 1
 
 part 2
 - To write in function format
+
+part 3
+- To write modules
